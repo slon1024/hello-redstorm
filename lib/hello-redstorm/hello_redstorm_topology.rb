@@ -14,8 +14,8 @@ class HelloRedstormTopology < RedStorm::DSL::Topology
 
   configure do |env|
     debug false
-    #max_task_parallelism 2
-    #num_workers 2
-    #max_spout_pending 1000
+    max_task_parallelism 2
+    num_workers 2
+    max_spout_pending 1000
   end
 end
