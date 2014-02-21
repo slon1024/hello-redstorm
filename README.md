@@ -2,12 +2,12 @@ Hello RedStorm
 =========
 
 ## Goal
-> To prepare the minimal project with use [RedStorm] (DSL for [Storm] in Ruby)
+To prepare the minimal project with use [RedStorm] (DSL for [Storm] in Ruby)
 
 ## Prerequests
 * [rvm]
 * [JRuby]  
-**That's all you can install the commands below (choose the steps that you need)**:
+**That's all you can install the commands below (choose the steps which you need)**:
 ```sh
 \curl -sSL https://get.rvm.io | bash -s stable
 source ~/.rvm/scripts/rvm
