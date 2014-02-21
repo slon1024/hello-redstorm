@@ -1,3 +1,6 @@
+ivy
+target
+
 *.gem
 *.rbc
 .bundle
