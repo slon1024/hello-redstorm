@@ -5,4 +5,4 @@ bundle exec redstorm install
 bundle exec redstorm local lib/hello-redstorm/hello_redstorm_topology.rb
 
 #cluster
-#bundle exec redstorm cluster lib/redstorm-starter/word_count_topology.rb
+#bundle exec redstorm cluster lib/hello-redstorm/hello_redstorm_topology.rb
