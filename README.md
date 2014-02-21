@@ -34,7 +34,7 @@ jvm use ruby
 [rvm]:http://rvm.io/
 [JRuby]:http://jruby.org/
 [RedStorm]:https://github.com/colinsurprenant/redstorm
-[Ruby DSL]:https://github.com/colinsurprenant/redstorm/wiki/Ruby-DSL
+[Ruby DSL]:https://github.com/colinsurprenant/redstorm/wiki/Ruby-DSL-Documentation
 [Other]:https://github.com/colinsurprenant/redstorm/wiki
 [redstorm-starter]:https://github.com/colinsurprenant/redstorm-starter/
 [redstorm-benchmark]:https://github.com/colinsurprenant/redstorm-benchmark/
