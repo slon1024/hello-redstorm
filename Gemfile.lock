@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.1.1)
+    redstorm (0.6.6)
+      rake
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  redstorm (~> 0.6.6)
